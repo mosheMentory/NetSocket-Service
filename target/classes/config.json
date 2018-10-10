@@ -1,0 +1,26 @@
+{
+  "actions": {
+    "match_request": "com.redice.vertx.handlers.actions.MatchRequestActionHandler"
+  },
+  "redis": {
+    "pipeline.timer": 100,
+    "connection.retry.delay": 10000,
+    "connection.retry.count": 30,
+    "maxTotalConnections": 8,
+    "clusterNodes": [
+      "localhost:30001",
+      "localhost:30002",
+      "localhost:30003"
+    ]
+  },
+  "client.pipe.config": {
+    "batch.period": 500,
+    "batch.size": 1,
+    "socket.write.queue.max.size": 50000
+  },
+  "kafka": {
+    "bootstrap.servers": "kafka:29092",
+    "matchingx.topic": "matchingx",
+    "matchingy.topic": "matchingy"
+  }
+}

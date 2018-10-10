@@ -1,0 +1,16 @@
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/config/MainVerticleDeployer.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/handlers/SocketBaseHandler.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/config/VertxInitializer.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/handlers/SocketClientHandler.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/eventbus/handlers/MatchRequestEventBusHandler.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/redis/ClusteredRedisConnectionFactory.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/handlers/actions/MatchRequestActionHandler.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/consts/VertxConsts.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/handlers/BaseHandler.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/config/ConfigHolderImpl.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/domain/UserConnectionDetails.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/Application.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/verticles/NetSocketServer.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/config/ConfigHolder.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/handlers/ActionDataHandler.java
+/Users/nimrodti/Documents/red-ice/ns-service/src/main/java/com/redice/vertx/handlers/NetSocketServerHandler.java
